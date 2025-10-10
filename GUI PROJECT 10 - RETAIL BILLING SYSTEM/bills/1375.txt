@@ -1,0 +1,19 @@
+                ** Welcome Customer **                
+
+Bill No.: 1375
+Customer Name: John Smith
+Phone No.: 111 111 1111
+
+======================================================
+Product               Quantity              Price
+======================================================
+Bath Soap             1                     25
+Sugar                 3                     12
+Sprite                5                     10
+------------------------------------------------------
+Cosmetic Tax                  $ 1.75
+Grocery Tax                   $ 0.84
+Cold Drink Tax                $ 0.70
+
+Total Bill                    $ 50.29
+------------------------------------------------------
